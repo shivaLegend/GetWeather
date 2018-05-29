@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "d428633210475b99f1e15d13f96eefe5"
+build_time: [1524402245, 186317000]
+inputs:
+  "/Users/nguyenductai/Desktop/Clima-iOS11-master/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1524396628, 0]

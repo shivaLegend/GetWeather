@@ -1,0 +1,134 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Build/Intermediates/Pods.build/Debug-iphoneos/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Build/Products/Debug-iphoneos/Pods_Clima.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Clima-umbrella.h",
+          'external-contents': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Pods/Target Support Files/Pods-Clima/Pods-Clima-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Clima-Swift.h",
+          'external-contents': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Build/Products/Debug-iphoneos/Pods_Clima.framework/Headers/Pods_Clima-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Build/Products/Debug-iphoneos/Pods_Clima.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Clima.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Build/Products/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SVIndefiniteAnimatedView.h",
+          'external-contents': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Pods/SVProgressHUD/SVProgressHUD/SVIndefiniteAnimatedView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressAnimatedView.h",
+          'external-contents': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Pods/SVProgressHUD/SVProgressHUD/SVProgressAnimatedView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressHUD-Swift.h",
+          'external-contents': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Build/Products/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVProgressHUD-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressHUD-umbrella.h",
+          'external-contents': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Pods/Target Support Files/SVProgressHUD/SVProgressHUD-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressHUD.h",
+          'external-contents': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVRadialGradientLayer.h",
+          'external-contents': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Pods/SVProgressHUD/SVProgressHUD/SVRadialGradientLayer.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Build/Products/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Build/Intermediates/Pods.build/Debug-iphoneos/SVProgressHUD.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/nguyenductai/Desktop/Clima-iOS11-master/Build/Intermediates/Pods.build/Debug-iphoneos/SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
